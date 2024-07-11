@@ -193,9 +193,12 @@ def show_instructions():
     # Texto de instrucciones
     instructions_text = [
         'Bienvenido a Pong!',
-        'Jugador 1 (izquierda): Utiliza W y S para mover la paleta hacia arriba y abajo.',
-        'Jugador 2 (derecha): Utiliza las teclas de flecha arriba y abajo para mover la paleta.',
-        'El objetivo es evitar que la pelota pase por tu lado de la pantalla.',
+        'Jugador 1 (izquierda):', 
+        'Utiliza W y S para mover la paleta hacia arriba y abajo.',
+        'Jugador 2 (derecha):',  
+        'Utiliza las teclas de flecha arriba y abajo para mover la paleta.',
+        'El objetivo:', 
+        'es evitar que la pelota pase por tu lado de la pantalla.',
         'El primer jugador en alcanzar 10 puntos gana el juego.'
     ]
 
